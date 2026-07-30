@@ -1,0 +1,6 @@
+{
+  "name": "Developer & AI Engineer Portfolio",
+  "description": "World-class interactive personal portfolio featuring projects, client case studies, certifications, skills, experience, coding profiles, resume preview, and central configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
