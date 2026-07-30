@@ -30,10 +30,6 @@ export const portfolioConfig: PortfolioConfig = {
       github: "https://github.com/Aaronreilly",
       linkedin: "https://www.linkedin.com/in/aaron-reilly-0b3a0b323",
       leetcode: "https://leetcode.com/u/Aaron_Reilly09/",
-      hackerrank: "https://hackerrank.com/Aaron_Reilly",
-      codechef: "https://codechef.com/users/Aaron_Reilly",
-      geeksforgeeks: "https://geeksforgeeks.org/user/Aaron_Reilly",
-      codingninjas: "https://codingninjas.com/profile/Aaron_Reilly",
       email: "raaron@karunya.edu.in",
       phone: "+91 8056774121",
       location: "Coimbatore, Tamil Nadu, India",
@@ -80,7 +76,7 @@ export const portfolioConfig: PortfolioConfig = {
       skills: [
         { name: "Git & GitHub", level: 88, description: "Version Control, Repository Management, Collaboration" },
         { name: "VS Code & Jupyter Notebooks", level: 90, description: "Interactive Data Science, Debugging, Code Refactoring" },
-        { name: "Excel & Power BI", level: 82, description: "Data Wrangling, Pivot Tables, Interactive Dashboards" }
+        { name: "Excel & Tableau", level: 82, description: "Data Wrangling, Pivot Tables, Interactive Dashboards" }
       ]
     }
   ],
