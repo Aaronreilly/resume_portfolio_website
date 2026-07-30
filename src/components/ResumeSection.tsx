@@ -40,8 +40,8 @@ CAREER OBJECTIVE:
 ${personalInfo.careerObjective}
 
 EDUCATION:
-Bachelor of Technology in Computer Science & Engineering (2022 - 2026)
-GPA: 3.92 / 4.0 | CGPA: 9.6 / 10.0
+Bachelor of Technology in Computer Science & Engineering (2024 - 2028)
+CGPA: 7.44 / 10.0
 
 CORE COMPETENCIES:
 Python, JavaScript, TypeScript, Java, C++, React, Node.js, FastAPI, PostgreSQL, MySQL, Redis, AWS, Git, Quantum Computing, DSA, DBMS.
@@ -63,7 +63,7 @@ ${personalInfo.socials.email} | ${personalInfo.socials.phone}
 GitHub: ${personalInfo.socials.github}
 
 Objective: ${personalInfo.careerObjective}
-Education: B.Tech CS (GPA 3.92/4.0)`;
+Education: B.Tech CS (cGPA 7.44/10.0)`;
     navigator.clipboard.writeText(textContent);
     setCopied(true);
     setTimeout(() => setCopied(false), 2000);
