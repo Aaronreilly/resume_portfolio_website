@@ -33,7 +33,7 @@ export const portfolioConfig: PortfolioConfig = {
       email: "raaron@karunya.edu.in",
       phone: "+91 8056774121",
       location: "Coimbatore, Tamil Nadu, India",
-      mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62660.03841103632!2d76.920585!3d11.0168445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba859af2f971cb5%3A0x2fc1c81e183ed282!2sCoimbatore%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1620000000000"
+      mapEmbedUrl: https://maps.app.goo.gl/uf5x15Y7b3VYSXDdA"
     },
     careerObjective: "Seeking a Data Analyst, Data Scientist, or Software Engineering internship / full-time opportunity where I can leverage Python, SQL, Machine Learning, Data Visualization, and web development to solve real-world business problems.",
     technicalInterests: [
