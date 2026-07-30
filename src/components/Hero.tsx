@@ -70,14 +70,14 @@ ${personalInfo.careerObjective}
 TECHNICAL SKILLS:
 - Languages: Python, Java, C/C++, JavaScript, TypeScript, SQL
 - Frontend: React.js, Next.js, Tailwind CSS, HTML5, CSS3, Bootstrap
-- Backend: FastAPI, Flask, Node.js, Express.js, REST APIs
-- Databases: PostgreSQL, MySQL, Redis, MongoDB
+- Backend: FastAPI, Flask, Node.js, REST APIs
+- Databases: PostgreSQL, MySQL
 - Developer Tools: Git, GitHub, VS Code, Docker, Tableau, Figma
 - Core Concepts: DBMS, OOP, DSA, Operating Systems, Computer Networks, Quantum Computing
 
 EDUCATION:
 Bachelor of Technology in Computer Science & Engineering
-State University of Technology (2022 - 2026) | CGPA: 9.6 / 10.0 (3.92 GPA)
+Karunya University of Technology (2024 - 2028) | CGPA: 7.44 / 10.0
 
 FEATURED PROJECTS:
 1. VernaCheck - AI Fake News Detection System (Python, FastAPI, PyTorch, React)
@@ -90,11 +90,10 @@ EXPERIENCE & INTERNSHIPS:
 - Machine Learning Research Intern @ Cognitive AI Systems (Spring 2025)
 
 CERTIFICATIONS:
-- AWS Certified Solutions Architect Associate
-- Deep Learning Specialization (Andrew Ng - Coursera)
-- Meta Front-End Developer Professional Certificate
+- DataCamp (python-Pandas and Numpy)
+- Mongodb Certifications
+- Forage(delloite-Data Analytics Job Simulation)
 
-ATS OPTIMIZATION SCORE: ${personalInfo.atsScore}%
 =====================================================`;
 
     const blob = new Blob([resumeContent], { type: 'text/plain' });
