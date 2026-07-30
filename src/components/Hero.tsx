@@ -275,7 +275,7 @@ CERTIFICATIONS:
                   {/* Bottom overlay info */}
                   <div className="absolute bottom-3 left-3 right-3 bg-slate-950/80 backdrop-blur-md p-3 rounded-xl border border-slate-800 text-xs">
                     <div className="flex items-center justify-between text-slate-300">
-                      <span className="font-mono text-indigo-400">CGPA: 9.6 / 10.0</span>
+                      <span className="font-mono text-indigo-400">CGPA: 7.44 / 10.0</span>
                       <span className="font-mono text-purple-400">ATS Score: {personalInfo.atsScore}%</span>
                     </div>
                   </div>
@@ -292,7 +292,7 @@ CERTIFICATIONS:
                     <div className="text-[10px] uppercase font-mono tracking-wider text-slate-500">Certificates</div>
                   </div>
                   <div className={`p-2.5 rounded-xl border ${darkMode ? 'bg-slate-900/60 border-slate-800' : 'bg-slate-50 border-slate-200'}`}>
-                    <div className="text-lg font-bold text-emerald-500">480+</div>
+                    <div className="text-lg font-bold text-emerald-500">100+</div>
                     <div className="text-[10px] uppercase font-mono tracking-wider text-slate-500">LeetCode</div>
                   </div>
                 </div>
