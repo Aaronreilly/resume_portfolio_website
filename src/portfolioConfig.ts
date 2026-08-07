@@ -17,7 +17,7 @@ export const portfolioConfig: PortfolioConfig = {
       "Relational Database Systems & SQL"
     ],
     bio: "Pre-final year Computer Science Engineering student with a 7.44 CGPA at Karunya Institute of Technology and Sciences, aspiring to become a Data Scientist, Data Analyst, and Software Engineer. Passionate about data analytics, machine learning, statistical modeling, visualization, and transforming complex data into actionable insights.",
-    avatarUrl: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=600&auto=format&fit=crop",
+    avatarUrl: "/profile.jpg",
     resumeUrl: "#resume-preview",
     atsScore: 96,
     atsBreakdown: {
